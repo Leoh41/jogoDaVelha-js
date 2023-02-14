@@ -8,9 +8,9 @@
     />
   </a>
   <br />
-  Desenvolvido com HTML, CSS e JavaScript.
+ Usado Js, Html e CSS.
 </p>
 
 <hr />
 
-"Criando seu próprio jogo da velha com HTML e Javascript").
+
