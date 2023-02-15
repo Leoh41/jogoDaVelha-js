@@ -1,7 +1,7 @@
 <h1 align="center">:x: JOGO DA VELHA  :o:</h1>
 
 <p align="center">
-  <a href=""https://leoh41.github.io/Jogo/">
+  <a href="https://leoh41.github.io/jogoDaVelha-js/">
     <img 
          src="https://github.com/Leoh41/Jogo/blob/main/jogoDaVelha.jpg" 
          alt="Jogo da Velha" 
